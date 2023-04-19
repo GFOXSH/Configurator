@@ -173,9 +173,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\ru.png" />
-    <None Include="Resources\us.png" />
+    <None Include="Resources\uk.png" />
     <None Include="Resources\ru_disabled.png" />
-    <None Include="Resources\us_disabled.png" />
+    <None Include="Resources\uk_disabled.png" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
